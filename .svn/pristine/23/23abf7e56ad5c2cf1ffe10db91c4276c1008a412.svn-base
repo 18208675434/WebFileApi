@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebFileApi</name>
+    </assembly>
+    <members>
+        <member name="M:WebFileApi.FileApi.FileController.Test">
+            <summary>
+            测试方法
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebFileApi.FileApi.FileController.SaveFileToPath(System.String)">
+            <summary>
+            保存文件到对应路径
+            </summary>
+            <param name="path">路径，精确到文件名称</param>
+            <returns>成功返回true,不存在文件则返回false，报错返回报错信息</returns>
+        </member>
+        <member name="M:WebFileApi.FileApi.FileController.GetFileCount(System.String)">
+            <summary>
+            得到路径下文件数量
+            </summary>
+            <param name="path">文件夹路径</param>
+            <returns></returns>
+        </member>
+        <member name="T:WebFileApi.Properties.Resources">
+            <summary>
+              一个强类型的资源类，用于查找本地化的字符串等。
+            </summary>
+        </member>
+        <member name="P:WebFileApi.Properties.Resources.ResourceManager">
+            <summary>
+              返回此类使用的缓存的 ResourceManager 实例。
+            </summary>
+        </member>
+        <member name="P:WebFileApi.Properties.Resources.Culture">
+            <summary>
+              重写当前线程的 CurrentUICulture 属性，对
+              使用此强类型资源类的所有资源查找执行重写。
+            </summary>
+        </member>
+    </members>
+</doc>

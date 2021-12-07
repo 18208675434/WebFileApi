@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <DeleteExistingFiles>False</DeleteExistingFiles>
+    <ExcludeApp_Data>False</ExcludeApp_Data>
+    <LaunchSiteAfterPublish>True</LaunchSiteAfterPublish>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <PublishProvider>FileSystem</PublishProvider>
+    <PublishUrl>C:\Users\Administrator\Desktop\10月\网站</PublishUrl>
+    <WebPublishMethod>FileSystem</WebPublishMethod>
+    <SiteUrlToLaunchAfterPublish />
+    <TargetFramework>net6.0</TargetFramework>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <PublishSingleFile>True</PublishSingleFile>
+    <ProjectGuid>81be5997-04ce-4b0d-b83b-d45bec5a93a8</ProjectGuid>
+    <SelfContained>false</SelfContained>
+  </PropertyGroup>
+</Project>
